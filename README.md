@@ -2,6 +2,7 @@
 Test Score Calculator
 
 Contributors: Jose Morales, Victor Gutierrez, Luis Garibay
+
 CIS 11 Assembly Programming; Final Project: Test Score Calculator;
 
 Description: The Program will calculate the Min, Max, and Average value of 5 test score given by the user.
