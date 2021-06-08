@@ -1,5 +1,4 @@
 # CIS11-Project
-Test Score Calculator
 
 Contributors: Jose Morales, Victor Gutierrez, Luis Garibay
 
