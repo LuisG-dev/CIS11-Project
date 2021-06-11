@@ -10,3 +10,4 @@ the other calculated values.
 
 Instructions: User is prompted to input 5 Test Scores; After input the program will display the 
 Minimum, Maximum, and Average test scores as well as the letter grade associted with the average.
+ 
